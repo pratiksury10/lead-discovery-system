@@ -1,4 +1,4 @@
-# 🧠 Lead Discovery System – Appliflow Backend Intern Assignment
+# 🧠 Lead Discovery System – Appliflow Backend
 
 This is a simple backend-driven Lead Discovery System that collects company data and enriches it with decision-maker contact details using the **Hunter.io API** and **n8n workflow automation**.
 
