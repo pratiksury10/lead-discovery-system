@@ -6,7 +6,7 @@ This is a simple backend-driven Lead Discovery System that collects company data
 
 ## 🚀 Features
 
-- ✅ Secure login (session-based auth)
+- ✅ Secure login
 - ✅ Add & store company information (name, website, funding stage)
 - ✅ n8n workflow for lead enrichment via Hunter.io
 - ✅ Contact discovery: emails, titles, LinkedIn
